@@ -42,7 +42,6 @@
     "access": "public"
   },
   "scripts": {
-    "build": "vp pack && node scripts/build-runtime.mjs",
     "dev": "vp pack --watch",
     "typecheck": "tsc --noEmit"
   },
